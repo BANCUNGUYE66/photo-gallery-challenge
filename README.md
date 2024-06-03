@@ -39,9 +39,9 @@
 
 
 
-## 📖 Math Magician <a name="about-project"></a>
+## 📖 Photo Gallery Challenge <a name="about-project"></a>
 
-**[MATH-MAGICIAN]** The purpose of this coding challenge is to assess my skills in HTML, CSS, and
+**[Photo Gallery Challenge]** The purpose of this coding challenge is to assess my skills in HTML, CSS, and
 JavaScript, as well as your problem-solving abilities. I build an interactive photo gallery based on provided Figma designs.
 Additionally, I complete two coding challenges, using javascript, that test
 my logical thinking and coding aptitude.
