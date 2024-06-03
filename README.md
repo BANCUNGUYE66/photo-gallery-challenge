@@ -99,7 +99,7 @@ Install this project with:
 ```sh
   
   https://github.com/BANCUNGUYE66/photo-gallery-challenge.git
-  cd photo-gallery-challenge
+
   npm install
 ```
 
